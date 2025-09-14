@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 function Gallery() {
-  const images = ["/gallery1.jpg", "/gallery2.jpg", "/gallery3.jpg"];
+  const images = ["/gallery1.jpg", "/akshara.jpeg", "/gallery3.jpg"];
 
   return (
     <div className="px-6 py-20 md:px-20 bg-gray-50 min-h-screen">
